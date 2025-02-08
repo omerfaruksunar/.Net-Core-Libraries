@@ -1,0 +1,15 @@
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\bin\Debug\net8.0\Solid.App.exe
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\bin\Debug\net8.0\Solid.App.deps.json
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\bin\Debug\net8.0\Solid.App.runtimeconfig.json
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\bin\Debug\net8.0\Solid.App.dll
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\bin\Debug\net8.0\Solid.App.pdb
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.AssemblyInfoInputs.cache
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.AssemblyInfo.cs
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.csproj.CoreCompileInputs.cache
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.sourcelink.json
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.dll
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\refint\Solid.App.dll
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.pdb
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\Solid.App.genruntimeconfig.cache
+C:\Projects\.Net-Core-Libraries\DotNetCoreLibraries\Solid.App\obj\Debug\net8.0\ref\Solid.App.dll
